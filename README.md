@@ -1,3 +1,4 @@
 # Valley Library Interactive Map
 
-**[Progress Blog](https://github.com/NathanHealea/ValleyLibraryInteractiveMap/wiki/)**
+Check out the main repo: 
+**[Libnav](https://github.com/VallyLibrarySeniorCapstone/Libnav)**
